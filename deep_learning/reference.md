@@ -6,7 +6,9 @@
 [2] Deep Learning with Python, 2017, François Chollet.  
 [3] Pattern Recognition and Machine Learning, 2006, Christopher M. Bishop.
 
-**Video Class**
+**Video Lectures**
 
-[1] Convolutional Neural Networks, [Coursera](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome).  
-[2] Machine Learning, Andrew Ng, [Coursera](https://www.coursera.org/learn/machine-learning).  
+[1] Convolutional Neural Networks, [link](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome).  
+[2] Machine Learning, Andrew Ng, [link](https://www.coursera.org/learn/machine-learning).  
+[3] Deep Learning Summer School 2016 - Montreal [link](http://videolectures.net/deeplearning2016_montreal/).  
+[4] 
