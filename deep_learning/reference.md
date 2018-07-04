@@ -4,8 +4,9 @@
 
 [1] Deep Learning A Practitioner’s Approach, 2017, Josh Patterson and Adam Gibson.  
 [2] Deep Learning with Python, 2017, François Chollet.   
-[3] Introduction to Machine Learning with Python: A Guide for Data Scientists, 2017, Andreas C. Müller and Sarah Guido.  
-[4] Pattern Recognition and Machine Learning, 2006, Christopher M. Bishop.  
+[3] Introduction to Machine Learning with Python: A Guide for Data Scientists, 2017, Andreas C. Müller and Sarah Guido.   
+[4] Deep Learning, 2016, Ian Goodfellow and Yoshua Bengio and Aaron Courville. [(link)](http://www.deeplearningbook.org/)  
+[5] Pattern Recognition and Machine Learning, 2006, Christopher M. Bishop.  
 
 
 **Video Lectures**
