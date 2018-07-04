@@ -4,4 +4,4 @@
 
 ### Table of Contents
 * #### [Deep Learning: a short introduction](deep_learning/readme.md/)
-* #### [Reference](deep_learning/reference.md/)
+* #### [References](deep_learning/reference.md/)
