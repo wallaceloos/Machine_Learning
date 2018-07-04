@@ -13,4 +13,5 @@
 [1] Convolutional Neural Networks. [(link)](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)   
 [2] Machine Learning, Andrew Ng. [(link)](https://www.coursera.org/learn/machine-learning)   
 [3] Deep Learning Summer School 2016 - Montreal. [(link)](http://videolectures.net/deeplearning2016_montreal/)   
-[4] Deep Learning Lectures, Nando de Freitas. [(link)](https://www.youtube.com/watch?v=PlhFWT7vAEw&list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
+[4] Deep Learning Lectures, Nando de Freitas. [(link)](https://www.youtube.com/watch?v=PlhFWT7vAEw&list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)  
+[5] MIT 6.S094: Deep Learning for Self-Driving Cars. [(link)](https://selfdrivingcars.mit.edu/)
