@@ -6,5 +6,5 @@
 <img src="https://github.com/wallaceloos/Machine_Learning/blob/master/images/training.png" height="140" width="300">
 </p>
 
-When this model is an artificial neural network with a larger number of hidden layers (a large depth > 2) and a large number of parameters, it is called of deep neural network. The process of training it is called **deep learning**.
+When this model is an artificial neural network with a larger number of hidden layers (a large depth > 2), it is called of deep neural network. The process of training it is called **deep learning**.
 
