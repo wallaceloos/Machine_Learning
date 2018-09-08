@@ -4,7 +4,7 @@
 
 ### Table of Contents
 * #### [Deep Learning: a short introduction](deep_learning/readme.md/)
-* #### [Case Studies](deep_learning/readme.md/)
+* #### Case Studies
      [Breed Dog Identification]()  
      [Pedestrian and Car Segmentation]()
 * #### [References](deep_learning/reference.md/)
