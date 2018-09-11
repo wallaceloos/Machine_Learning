@@ -5,7 +5,11 @@
 </p>
 
 <p align="justify">
-The dog breed classification problem has been hostedby Kaggle.  It consists in finding the correct breed fora given dog.  The low intra-variance presented amongsome dog breeds and the class imbalance, make thisclassification problem a challenge.  Besides that, thedataset provided by Kaggle, has only 10222 images,for  120  different  breeds.   In  this  report  we  presentthree  different  architectures  to  solve  this  multiclassclassication problem and also an approach to handlethe class imbalance.
+The dog breed classification problem has been hostedby Kaggle.  It consists in finding the correct breed for a given dog.  
+The low intra-variance presented amongsome dog breeds and the class imbalance, make thisclassification problem a challenge.  Besides that, thedataset provided by Kaggle, has only 10222 images,for  120  different  breeds.   In  this  report  we  present three  different  architectures  to  solve  this  multiclassclassication problem and also an approach to handlethe class imbalance.
+
+You can read the full report [here](https://github.com/wallaceloos/Machine_Learning/blob/master/deep_learning/codes/breed/report_dog_breed_classification.pdf)
+ 
 </p>
 
 
