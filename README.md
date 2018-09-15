@@ -6,5 +6,5 @@
 * #### [Deep Learning: a short introduction](deep_learning/readme.md/)
 * #### Case Studies
      [Breed Dog Identification](deep_learning/codes/breed/)  
-     [Pedestrian and Car Segmentation]()
+     [People Segmentation]()
 * #### [References](deep_learning/reference.md/)
