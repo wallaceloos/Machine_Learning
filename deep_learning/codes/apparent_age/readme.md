@@ -2,8 +2,8 @@
 
 <p align="center">
 <img src="https://github.com/wallaceloos/Machine_Learning/blob/master/images/melhores.png" width="90%" height="90%">
-</p5)
-
+</p>   
+          
 <p align="justify">
 The apparent age estimation is a regression problem established in order to estimate the age apparent and
 not the real (or biological) age. In the real age estimation, each image has only one age associated to
