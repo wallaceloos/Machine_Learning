@@ -7,5 +7,7 @@
 * #### Case Studies
      [Breed Dog Identification](deep_learning/codes/breed/)  
      [People Segmentation](deep_learning/codes/people_segmentation/)    
-     [Apparent Age](deep_learning/codes/apparent_age/)
+     [Apparent Age](deep_learning/codes/apparent_age/)   
+     [Generative Adversarial Network (GAN): MNIST](#)
 * #### [References](deep_learning/reference.md/)
+
