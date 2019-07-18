@@ -8,6 +8,6 @@
      [Breed Dog Identification](deep_learning/codes/breed/)  
      [People Segmentation](deep_learning/codes/people_segmentation/)    
      [Apparent Age](deep_learning/codes/apparent_age/)   
-     [Generative Adversarial Network (GAN): MNIST](#)
+     [Generative Adversarial Network (GAN): MNIST](deep_learning/codes/gans/)
 * #### [References](deep_learning/reference.md/)
 
