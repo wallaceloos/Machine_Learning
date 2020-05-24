@@ -10,3 +10,7 @@ Visualizing the features your model is learning can be very useful for understan
 You can read the Grad-CAM article [here](https://arxiv.org/abs/1610.02391).
  
 </p>
+
+### Deep Inside Convolutional Networks: VisualisingImage Classification Models and Saliency Maps
+
+You can read about Saliency Maps [here](https://arxiv.org/pdf/1312.6034.pdf).
