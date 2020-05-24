@@ -11,7 +11,7 @@ You can read about Grad-CAM [here](https://arxiv.org/abs/1610.02391).
  
 </p>
 
-### Deep Inside Convolutional Networks: VisualisingImage Classification Models and Saliency Maps
+### Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
 
 You can read about Saliency Maps [here](https://arxiv.org/pdf/1312.6034.pdf).   
 
