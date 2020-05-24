@@ -9,6 +9,6 @@
      [People Segmentation](deep_learning/codes/people_segmentation/)    
      [Apparent Age](deep_learning/codes/apparent_age/)   
      [Generative Adversarial Network (GAN): MNIST](deep_learning/codes/gans/)  
-     [Gradient-weighted Class Activation Mapping (Grad-CAM)](deep_learning/codes/grad_cam/)
+     [Interpretable Machine Learning](deep_learning/codes/grad_cam/)
 * #### [References](deep_learning/reference.md/)
 
