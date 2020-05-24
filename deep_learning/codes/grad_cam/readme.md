@@ -17,4 +17,6 @@ You can read about Saliency Maps [here](https://arxiv.org/pdf/1312.6034.pdf).
 
 ### Layer-wise Relevance Propagation for DeepNeural Network Architectures
 
-You can read about Layer-wise Relevance Propagation [here](https://arxiv.org/pdf/1312.6034.pdf). 
+You can read about Layer-wise Relevance Propagation [here](https://arxiv.org/pdf/1312.6034.pdf).   
+ 
+### Occlusion Maps
